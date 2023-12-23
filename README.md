@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/pecuniafinance/fabrico-labs">
-    <img width="150" src="https://github.com/pecuniafinance/fabrico-labs/blob/main/fabrico.png">
+    <img width="400" src="https://github.com/pecuniafinance/fabrico-labs/blob/main/fabrico.png">
   </a>
 </p>
 <p align="center" width="100%">
