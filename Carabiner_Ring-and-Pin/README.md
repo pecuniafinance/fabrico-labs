@@ -18,7 +18,7 @@ DO NOT USE THIS CARABINER FOR CLIMBING OR LIFTING HEAVY WEIGHT. MAXIMUM LOAD HAS
 
 ### Filament
 - PETG-Carbon-Fiber (**Recommended**)
-- PETG
+- PETG (*optional*)
 
 ### Additional Materials
 
@@ -59,8 +59,6 @@ No adhesion support is necessary **as long as the bed is leveled**.
 ## Versions
 - [MKI Hole](#mki-hole)
 - [MKII Clip](#mkii-clip)
-- [MKIIA Clip-Separated](#mkiia-clip-separated)
-- [MKIII Clip-and-Hole](#mkiii-clip-and-hole)
 
 ### MKI 'Hole'
 
@@ -96,25 +94,6 @@ Both hands must be used to remove the pin. Perform the following steps to remove
 - Supports are highly recommended within the ring, to ensure the space for the pin's arms will not require significant post-processing.
 
 **Note:** Spacing between models are 0.3mm apart to account for thermal expansion and tolerance of printing accuracy.
-
-### MKIIA 'Clip-Separated'
-
-This iteration of the MKII Clip design features a horizontal space in the pin, so that a separately printed mono-arm-arc can be inserted. Reasons include:
-- Printing the arms in a material different to the material of the pin.
-- Replacing the arms if broken, worn, or lost.
-
-#### Unique Print Settings
-- Supports are highly recommended within the ring and pin, to ensure the space for the pin's arms will not require significant post-processing.
-
-**Note:** Spacing between models are 0.3mm apart to account for thermal expansion and tolerance of printing accuracy.
-
-### MKIII 'Clip-and-Hole'
-
-Combination of design elements from MKI and MKII which features both clip arms and keychain hole.
-
-#### Unique Print Settings
-- Support Z Distance: 0.1mm or simply ensure that supports are created for the pin's arms, which are ~0.4mm (or two layers) higher than the bottom of the pin.
-- Supports are highly recommended within the ring, to ensure the space for the pin's arms will not require significant post-processing.
 
 ## Redundant Disclaimer
 
