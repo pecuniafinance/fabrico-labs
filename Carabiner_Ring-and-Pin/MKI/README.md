@@ -31,7 +31,7 @@ The hole design (MKI & MKIII) is based upon common, commercially available, wire
 - These usually have a 4M / 4mm OD screw
 - Example _keyring_ on [Amazon](https://www.amazon.com/Pawfly-Keychain-Stainless-Outdoor-Hiking/dp/B07FY6M1JZ/ref=sr_1_5?crid=XAH9F4YLXHCF&keywords=wire%2Bkeychain&qid=1703327050&sprefix=wire%2Bkeychain%2Caps%2C205&sr=8-5&th=1)
 
-<img src="imgs/keyring.jpg" alt="Metal Wire Keychain Example Image" style="height: 300px; width:300px;"/>
+<img src="/Carabiner_Ring-and-Pin/imgs/keyring.jpg" alt="Metal Wire Keychain Example Image" style="height: 300px; width:300px;"/>
 
 #### Metal Insert
 
@@ -39,7 +39,7 @@ Using a metal insert to [re-enforce the hole](#mki-hole) is advisable, as cordag
 
 - Example _metal insert_ on [Amazon](https://www.amazon.com/Fashewelry-Stainless-Corrugated-Bracelet-Necklace/dp/B085ZBBSTS/ref=sr_1_15?crid=2W7JNNAJ9RSQS&keywords=steel%2Bbead%2B5mm&qid=1703327471&sprefix=steel%2Bbead%2B5mm%2Caps%2C160&sr=8-15&th=1)
 
-<img src="imgs/metalinsert.jpg" alt="Metal Insert Example Image" style="height: 300px; width:300px;"/>
+<img src="/Carabiner_Ring-and-Pin/imgs/metalinsert.jpg" alt="Metal Insert Example Image" style="height: 300px; width:300px;"/>
 
 ## General Print Settings
 
